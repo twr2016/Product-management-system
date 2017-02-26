@@ -20,8 +20,10 @@
 ![](https://github.com/twr2016/Product-management-system/blob/master/photo/soum.png?raw=true)
 <p>搜索：小</p>
 ![](https://github.com/twr2016/Product-management-system/blob/master/photo/souxiao.png?raw=true)
-<p>注销</p>
+<p>注销,修改个人信息</p>
 ![](https://github.com/twr2016/Product-management-system/blob/master/photo/zhuxiao.png?raw=true)
+<p>批量删除</p>
+![](https://github.com/twr2016/Product-management-system/blob/master/photo/xiu.png?raw=true)
 
 
 
