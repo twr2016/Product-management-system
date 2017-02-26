@@ -23,7 +23,7 @@
 <p>注销,修改个人信息</p>
 ![](https://github.com/twr2016/Product-management-system/blob/master/photo/zhuxiao.png?raw=true)
 <p>批量删除</p>
-![](https://github.com/twr2016/Product-management-system/blob/master/photo/xiu.png?raw=true)
+![](https://github.com/twr2016/Product-management-system/blob/master/photo/pi.png?raw=true)
 
 
 
